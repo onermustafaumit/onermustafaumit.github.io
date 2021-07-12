@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Predicting genetic intra-tumor heterogeneity from digital histopathology slides
+Predicting Genetic Intra-tumor Heterogeneity From Digital Histopathology Slides
 ---
 1. Poster Presentation, European Congress on Digital Pathology **(June 2021)**
 
